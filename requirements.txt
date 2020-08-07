@@ -1,0 +1,4 @@
+nltk
+tweepy
+pandas
+discord
